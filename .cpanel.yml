@@ -1,0 +1,4 @@
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/user/rainshade.design/test/
+    - C:\Users\Panda\Desktop\Stuff\Graphic Design\Web -R PBWarz $DEPLOYPATH
